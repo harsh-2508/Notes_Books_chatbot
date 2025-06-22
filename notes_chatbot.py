@@ -54,9 +54,3 @@ while True:
     answer = ask_question(query)
     print("Answer:", answer)
 
-!git config --global user.email "hvst032003@gmail.com"
-!git config --global user.name "harsh-2508"
-
-!git clone https://github.com/harsh-2508/Notes_Books_chatbot.git
-
-!cp /content/Book_QA_Chatbot_Project.pdf Notes_Books_chatbot/
